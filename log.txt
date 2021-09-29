@@ -1,0 +1,10 @@
+file:E:\VS2019±àÒëÆ÷´æ´¢´úÂë\test 2021-9-19    Program environment and preprocessing\test.c line:127 data:Sep 20 2021 time:12:52:08 i=0
+file:E:\VS2019±àÒëÆ÷´æ´¢´úÂë\test 2021-9-19    Program environment and preprocessing\test.c line:127 data:Sep 20 2021 time:12:52:08 i=1
+file:E:\VS2019±àÒëÆ÷´æ´¢´úÂë\test 2021-9-19    Program environment and preprocessing\test.c line:127 data:Sep 20 2021 time:12:52:08 i=2
+file:E:\VS2019±àÒëÆ÷´æ´¢´úÂë\test 2021-9-19    Program environment and preprocessing\test.c line:127 data:Sep 20 2021 time:12:52:08 i=3
+file:E:\VS2019±àÒëÆ÷´æ´¢´úÂë\test 2021-9-19    Program environment and preprocessing\test.c line:127 data:Sep 20 2021 time:12:52:08 i=4
+file:E:\VS2019±àÒëÆ÷´æ´¢´úÂë\test 2021-9-19    Program environment and preprocessing\test.c line:127 data:Sep 20 2021 time:12:52:08 i=5
+file:E:\VS2019±àÒëÆ÷´æ´¢´úÂë\test 2021-9-19    Program environment and preprocessing\test.c line:127 data:Sep 20 2021 time:12:52:08 i=6
+file:E:\VS2019±àÒëÆ÷´æ´¢´úÂë\test 2021-9-19    Program environment and preprocessing\test.c line:127 data:Sep 20 2021 time:12:52:08 i=7
+file:E:\VS2019±àÒëÆ÷´æ´¢´úÂë\test 2021-9-19    Program environment and preprocessing\test.c line:127 data:Sep 20 2021 time:12:52:08 i=8
+file:E:\VS2019±àÒëÆ÷´æ´¢´úÂë\test 2021-9-19    Program environment and preprocessing\test.c line:127 data:Sep 20 2021 time:12:52:08 i=9
